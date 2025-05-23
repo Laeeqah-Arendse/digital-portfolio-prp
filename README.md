@@ -40,7 +40,7 @@ Result: Achieved good marks and gained confidence to pursue project-based work, 
 
 Evidence
 - Self-identified traits: hardworking, optimistic, goal-driven (from CV)
-- [Personality Test Screenshot]()
+- [Personality Test Screenshot](Screenshot%202025-05-23%20183226.png)
 
 Reflection (STAR)
 Situation: In my part-time receptionist job.  
@@ -63,7 +63,7 @@ Result: My CV was positively reviewed by lecturers and landed me part-time roles
 5. CV Submission
 
 Evidence
-- Screenshot of Blackboard submission (insert here when available)
+- Screenshot of Blackboard submission (Screenshot%202025-05-23%20184434.png)
 
 ### ✨ Reflection (STAR)
 **Situation:** Digital portfolio assessment due in May 2025.  
