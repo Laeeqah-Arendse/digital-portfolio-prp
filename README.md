@@ -16,7 +16,7 @@ Table of Contents
 Evidence
 - Attended PMI Career Guidance Workshop and JASA Entrepreneurship Programme during high school.
 - Participated in university-based career counselling in first year.
-- 
+- [JASA & PMI Certificate](JASA.pdf)
 
 Reflection (STAR)
 Situation: I wanted clarity on career paths in IT during high school.  
@@ -41,6 +41,10 @@ Result: Achieved good marks and gained confidence to pursue project-based work, 
 Evidence
 - Self-identified traits: hardworking, optimistic, goal-driven (from CV)
 - [Personality Test Screenshot](Screenshot%202025-05-23%20183226.png)
+- [Personality Test Screenshot](Screenshot%202025-05-23%20183245.png)
+- [Personality Test Screenshot](Screenshot%202025-05-23%20183305.png)
+- [Personality Test Screenshot](Screenshot%202025-05-23%20183352.png)
+
 
 Reflection (STAR)
 Situation: In my part-time receptionist job.  
@@ -51,7 +55,7 @@ Result: Received positive feedback from my supervisor for professionalism under 
 4. Create a CV
 
 Evidence
-- [View My CV (2025)](./2025%20CV%20PRP.docx)
+- [CV](2025%20CV%20PRP.docx)
 - Includes education, work experience, skills, and references.
 
 Reflection (STAR)
@@ -63,25 +67,21 @@ Result: My CV was positively reviewed by lecturers and landed me part-time roles
 5. CV Submission
 
 Evidence
-- Screenshot of Blackboard submission (Screenshot%202025-05-23%20184434.png)
+- [Screenshot of Blackboard submission](Screenshot%202025-05-23%20184434.png)
 
-### ✨ Reflection (STAR)
-**Situation:** Digital portfolio assessment due in May 2025.  
-**Task:** Submit a complete CV to Blackboard and GitHub.  
-**Action:** I uploaded my updated CV and ensured my GitHub repo was public and working.  
-**Result:** Successful submission with a timestamped backup and submission confirmation.
+Reflection (STAR)
+Situation: Digital portfolio assessment due in May 2025.  
+Task: Submit a complete CV to Blackboard and GitHub.  
+Action: I uploaded my updated CV and ensured my GitHub repo was public and working.  
+Result: Successful submission with a timestamped backup and submission confirmation.
 
----
+Supporting Documents
 
-## 📎 Supporting Documents
+- Identification [ID]([ID%20L%20Arendse.pdf))
+- Matric Certificate  [NSC]([Matric%20Certificate%20Laeeqah%202022.pdf))
 
-- Identification  
-- Matric Certificate  
-- Academic Record (Add PDFs or screenshots in repo)
 
----
+Final Thoughts
 
-## 🧠 Final Thoughts
-
-This portfolio reflects my progress as a student, developer, and aspiring IT project manager. The reflections show not just what I’ve done, but who I’ve become.
+This portfolio reflects my progress as a student, developer, and aspiring IT project manager.
 
