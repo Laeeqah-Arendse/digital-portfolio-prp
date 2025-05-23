@@ -16,7 +16,7 @@ Table of Contents
 Evidence
 - Attended PMI Career Guidance Workshop and JASA Entrepreneurship Programme during high school.
 - Participated in university-based career counselling in first year.
-- [Insert scanned certificate or screenshot if available]
+- 
 
 Reflection (STAR)
 Situation: I wanted clarity on career paths in IT during high school.  
@@ -40,7 +40,7 @@ Result: Achieved good marks and gained confidence to pursue project-based work, 
 
 Evidence
 - Self-identified traits: hardworking, optimistic, goal-driven (from CV)
-- [Personality Test Screenshot](./Screenshot 2025-05-23 183226.png)
+- [Personality Test Screenshot]()
 
 Reflection (STAR)
 Situation: In my part-time receptionist job.  
